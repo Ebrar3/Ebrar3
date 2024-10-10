@@ -1,4 +1,4 @@
-[[MasterHead](https://www.canva.com/design/DAGTLhQxoDA/WwyDphSeTv_DsW4xRHn_Wg/edit?utm_content=DAGTLhQxoDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[[MasterHead](https://i.pinimg.com/236x/51/33/c0/5133c08e2b2f78fb2bedeebb694e6ac9.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Ebrar Üstüner</h1>
