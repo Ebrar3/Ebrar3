@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/236x/51/33/c0/5133c08e2b2f78fb2bedeebb694e6ac9.jpg) ![MasterHead](https://img.freepik.com/premium-photo/ancient-sculpture-working-with-laptop_539944-2537.jpg)
+![MasterHead](https://i.pinimg.com/236x/51/33/c0/5133c08e2b2f78fb2bedeebb694e6ac9.jpg) ![MasterHead](https://img.freepik.com/premium-photo/ancient-sculpture-working-with-laptop_539944-2537.jpg) ![MasterHead](https://img.freepik.com/premium-photo/statue-man-using-laptop-computer_925911-8217.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721520000&semt=sph)
 <h1 align="center">Hi 👋, I'm Ebrar Üstüner</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
