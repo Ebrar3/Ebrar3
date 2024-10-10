@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/236x/51/33/c0/5133c08e2b2f78fb2bedeebb694e6ac9.jpg) [![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/027/679/711/small_2x/sculpture-of-a-man-with-a-laptop-in-the-interior-ai-generated-photo.jpg)
+![MasterHead](https://i.pinimg.com/236x/51/33/c0/5133c08e2b2f78fb2bedeebb694e6ac9.jpg) [![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/027/679/711/small_2x/sculpture-of-a-man-with-a-laptop-in-the-interior-ai-generated-photo.jpg)
 <h1 align="center">Hi 👋, I'm Ebrar Üstüner</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
