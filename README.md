@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/236x/51/33/c0/5133c08e2b2f78fb2bedeebb694e6ac9.jpg) ![MasterHead](https://img.freepik.com/premium-photo/ancient-sculpture-working-with-laptop_539944-2537.jpg) 
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">passionate about Cybersecurity and Ai</h3>
 
 - 🔭 I’m currently working on **C**
 
